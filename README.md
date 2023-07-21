@@ -1,1 +1,3 @@
-# Tenure-Prediction
+# Tenure-Prediction:
+The Process: Analyzing -> Standardization ->Encoding ->Deploying 
+The process of predicting tenure involved analyzing job data and organization data. We cleaned and pre-processed the data using MS SQL Server and Python libraries such as Pandas, NumPy, and FuzzyWuzzy. We performed data cleaning tasks such as removing duplicates, handling missing values, and standardizing the textual content like job titles, organization data, education data, etc. of applications. After cleaning and standardizing the data, next came encoding data to be trained to the Model and evaluating it using metrics such as Mean Squared Error, Mean Absolute Error, and R-squared. We explored different encoding techniques and finally selected to go with one hot encoding. We deployed the model and developed API endpoints on a Flask server, to make predictions using it.
