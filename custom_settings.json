@@ -1,0 +1,11 @@
+{
+    "SQLDriverString": "{ODBC Driver 17 for SQL Server}",
+    "SQLServerName": "GANESH_LAPTOP",
+    "SQLDatabaseName": "INFINITE_ML",
+    "clearBitAPIKey_Tiering": "sk_219f2035f03239f42b0aaea63448754e",
+    "fuzzRatio": 92,
+    "flaskRunSetPort": 12345,
+    "endPoint": "tenurePrediction",
+    "clientID": "516",
+    "industryJobTitleStandarization": "IT"
+}
